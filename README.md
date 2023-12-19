@@ -5,6 +5,6 @@ Some techniques I used to handle an imbalanced dataset:
           - Xgboost
           - Random undersampling
           - Random Oversampling
-          - SMOTE
+          - SMOTE.
 
-.In this case, the NearMiss technique improves the model more than others.
+In this case, the NearMiss technique improves the model more than others.
