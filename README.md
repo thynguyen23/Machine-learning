@@ -9,4 +9,4 @@ Some Algorithms I used to handle an imbalanced dataset:
 - Random Oversampling
 - SMOTE
 
-In this case, the NearMiss technique improves the model more than others.
+In this case, the Near Miss Algorithms improves the model more than others.
