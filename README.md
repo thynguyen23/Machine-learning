@@ -1,4 +1,4 @@
-Some techniques I used to handle an imbalanced dataset:
+Some Algorithms I used to handle an imbalanced dataset:
 
 - Class weight
 - Random forest
